@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7432456d-b4a3-4151-a248-2ffcab2a1d0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YDlNt1omo414lHXX0U0yjxggbM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.Main" />
+      <module name="Inheritance" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7432456d-b4a3-4151-a248-2ffcab2a1d0c" name="Default Changelist" comment="" />
+      <created>1582485008687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582485008687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2906" y="571" key="#com.intellij.ide.util.MemberChooser" timestamp="1582488123718">
+      <screen x="2560" y="-578" width="1080" height="2520" />
+    </state>
+    <state x="2906" y="571" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.-578.1080.2520@2560.-578.1080.2520" timestamp="1582488123718" />
+    <state x="586" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1582588030947">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="586" y="545" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.-578.1080.2520@0.0.2560.1400" timestamp="1582588030947" />
+    <state x="272" y="342" key="new project wizard" timestamp="1582588045544">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="272" y="342" key="new project wizard/0.0.2560.1400/2560.-578.1080.2520@0.0.2560.1400" timestamp="1582588045544" />
+  </component>
+</project>

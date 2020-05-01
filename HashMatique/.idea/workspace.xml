@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52e4bd53-7a9d-4767-801e-b55651b25f03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aKHsyPZEdm7JiApnskvKyBXWY0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.dojo.Main" />
+      <module name="HashMatique" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52e4bd53-7a9d-4767-801e-b55651b25f03" name="Default Changelist" comment="" />
+      <created>1586477575884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586477575884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1577" height="324" key="GridCell.Tab.0.bottom" timestamp="1586479002532">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1577" height="324" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.-578.1080.2520@0.0.2560.1400" timestamp="1586479002532" />
+    <state width="1577" height="324" key="GridCell.Tab.0.center" timestamp="1586479002532">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1577" height="324" key="GridCell.Tab.0.center/0.0.2560.1400/2560.-578.1080.2520@0.0.2560.1400" timestamp="1586479002532" />
+    <state width="1577" height="324" key="GridCell.Tab.0.left" timestamp="1586479002532">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1577" height="324" key="GridCell.Tab.0.left/0.0.2560.1400/2560.-578.1080.2520@0.0.2560.1400" timestamp="1586479002532" />
+    <state width="1577" height="324" key="GridCell.Tab.0.right" timestamp="1586479002532">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1577" height="324" key="GridCell.Tab.0.right/0.0.2560.1400/2560.-578.1080.2520@0.0.2560.1400" timestamp="1586479002532" />
+    <state x="787" y="538" key="com.intellij.ide.util.TipDialog" timestamp="1586477586303">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="787" y="538" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.-578.1080.2520@0.0.2560.1400" timestamp="1586477586303" />
+    <state x="473" y="335" key="new project wizard" timestamp="1586479000077">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="473" y="335" key="new project wizard/0.0.2560.1400/2560.-578.1080.2520@0.0.2560.1400" timestamp="1586479000077" />
+  </component>
+</project>
