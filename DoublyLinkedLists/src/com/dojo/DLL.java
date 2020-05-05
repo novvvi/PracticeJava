@@ -85,16 +85,17 @@ public class DLL {
     }
 
     public void insertAt(Node newNode, int index) {
-        if (count > index + 1) {
+        if (count >= index + 1) {
             Node head = this.head;
-            for(int i = 0 ; i < index ; i++) {
-                head = this.head.next;
+            for(int i = 0 ; i < index - 1 ; i++) {
+                head = head.next;
             }
             Node next = head.next;
             next.previous = newNode;
             head.next = newNode;
             newNode.previous = head;
             newNode.next = next;
+            count ++;
 
 
         }
